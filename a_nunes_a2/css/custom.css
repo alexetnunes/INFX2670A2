@@ -1,0 +1,33 @@
+
+
+body {background-color:rgba(21,81,131,.6);
+			padding:5%;
+			margin:0;
+			}
+
+#wrap {max-width:800px;
+		min-width:350px;
+		margin:auto;
+		margin-top:0;
+		overflow:auto;
+		padding:10px;
+		padding-bottom:10%;
+		background-color:white;
+		border:2px solid black;
+		border-radius:10px;}
+		
+#uform {width:350px;
+		margin:auto;}
+		
+h2 {text-align:center;
+	padding-bottom:100px;
+	}
+	
+.output{padding:50px;
+		padding-top:25px;
+		padding-bottom:25px;}
+
+
+
+#er {color:red;
+		width:350px;}
